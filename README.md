@@ -13,3 +13,7 @@
  - 
 # Monero 
 - Breaking Monero - https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y
+
+# Cryptography
+- Dusting Attacks Explained - https://www.youtube.com/watch?v=_dPkAxRwvew
+- Elliptic Curve Cryptography Overview - https://www.youtube.com/watch?v=dCvB-mhkT0w
