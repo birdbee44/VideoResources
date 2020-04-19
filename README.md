@@ -10,7 +10,7 @@
  - DEF CON 23 - Robinson and Mitchell - Knocking my neighbors kids cruddy drone offline - https://www.youtube.com/watch?v=5CzURm7OpAA
  - DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering - https://www.youtube.com/watch?v=HlUe0TUHOIc
  - Defcon 21 - Social Engineering: The Gentleman Thief - https://www.youtube.com/watch?v=1kkOKvPrdZ4
- - 
+ - Rand Waltzman - Disinformation Its the Thought that Counts - DEF CON 27 AI Village - https://www.youtube.com/watch?v=TYVLH1tLIDY
 # Monero 
 - Breaking Monero - https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y
 
