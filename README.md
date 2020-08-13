@@ -14,6 +14,10 @@
  - DEF CON 22 - Chris Littlebury - Home Alone with localhost: Automating Home Defense - https://www.youtube.com/watch?v=2IeU7Cck0hI
  - DEF CON Safe Mode - Michael Stay - How we recovered XXX,000 in Bitcoin from an encrypted zip file - https://www.youtube.com/watch?v=iFS25HfTe20
  - Mastering the Nmap Scripting Engine - Fyodor & David Fifield - Defcon 18 - https://www.youtube.com/watch?v=M-Uq7YSfZ4I
+ - DEF CON Safe Mode - Jack Baker - Finding and Exploiting Bugs in Multiplayer Game Engines -   https://www.youtube.com/watch?v=4weoWSzuCxs
+ - DEF CON 23 - Ronny Bull and Jeanna Matthews -Exploring Layer 2 Security in Virtualized Environments  - https://www.youtube.com/watch?v=RaA5dEIqzzQ
+ - DEFCON 17: Advanced SQL Injection -   https://www.youtube.com/watch?v=rdyQoUNeXSg
+ - DEF CON 18 - Samy Kamkar - How I Met Your Girlfriend -  https://www.youtube.com/watch?v=fWk_rMQiDGc
 # Monero 
 - Breaking Monero - https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y
 
