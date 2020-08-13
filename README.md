@@ -11,6 +11,9 @@
  - DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering - https://www.youtube.com/watch?v=HlUe0TUHOIc
  - Defcon 21 - Social Engineering: The Gentleman Thief - https://www.youtube.com/watch?v=1kkOKvPrdZ4
  - Rand Waltzman - Disinformation Its the Thought that Counts - DEF CON 27 AI Village - https://www.youtube.com/watch?v=TYVLH1tLIDY
+ - DEF CON 22 - Chris Littlebury - Home Alone with localhost: Automating Home Defense - https://www.youtube.com/watch?v=2IeU7Cck0hI
+ - DEF CON Safe Mode - Michael Stay - How we recovered XXX,000 in Bitcoin from an encrypted zip file - https://www.youtube.com/watch?v=iFS25HfTe20
+ - Mastering the Nmap Scripting Engine - Fyodor & David Fifield - Defcon 18 - https://www.youtube.com/watch?v=M-Uq7YSfZ4I
 # Monero 
 - Breaking Monero - https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y
 
