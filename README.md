@@ -18,6 +18,7 @@
  - DEF CON 23 - Ronny Bull and Jeanna Matthews -Exploring Layer 2 Security in Virtualized Environments  - https://www.youtube.com/watch?v=RaA5dEIqzzQ
  - DEFCON 17: Advanced SQL Injection -   https://www.youtube.com/watch?v=rdyQoUNeXSg
  - DEF CON 18 - Samy Kamkar - How I Met Your Girlfriend -  https://www.youtube.com/watch?v=fWk_rMQiDGc
+ - DEF CON 23 - Jason Haddix - How to Shot Web: Web and mobile hacking in 2015 - https://youtu.be/-FAjxUOKbdI
 # Monero 
 - Breaking Monero - https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y
 
